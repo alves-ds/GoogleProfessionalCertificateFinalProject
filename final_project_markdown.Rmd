@@ -2,8 +2,9 @@
 title: "Case study - Bellabeat app"
 author: "Douglas Silva Alves"
 date: "2024-01-04"
-output: 
-  html_document: 
+output:
+  pdf_document: default
+  html_document:
     theme: readable
 ---
 
